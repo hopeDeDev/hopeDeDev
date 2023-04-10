@@ -4,13 +4,10 @@
 
 A litte summary about me:
 
-- 🔭 Current project i have is a CV in HTML 
-- 🌱 I’m currently working on my next project in Mobile development with Flutter
-- 👯 Open and looking for a mentor to call at 2 am when i have a bug
-- 🤔 Teach me something new
-- 💬 Inspire me :)
-- 📫 You can reach me on Instergram @hp_nkabinde and Facebook @hope nkabinde
-- 😄 I dont have much on my ripository yet but im slowly getting there, one project a time.
-- ⚡ Fun fact: I dont know Stack overflow's home page lol.
+- 🔭 Current project: One stop Mobile App for my curch AFM using Flutte/Dart and Firebase
+- 👯 Open for a mentor to call at 2 am when i have a bug
+- 💬 I love learning something new
+- - 🌱 I do yoga and pilates for my mental, phsysical and spiritual wellbeing
+- ⚡ Fun fact: I dont know Stack Overflow's home page lol.
 
 <  > Let The Fun Begin < / >
