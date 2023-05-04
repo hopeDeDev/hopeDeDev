@@ -8,6 +8,6 @@ A litte summary about me:
 - 👯 Open for a mentor to call at 2 am when i have a bug
 - 💬 I love learning something new
 - 🌱 I do yoga and pilates for my mental, phsysical and spiritual wellbeing
-- ⚡ Fun fact: I dont know Stack Overflow's home page lol.
+-  ⚡ Currently venturing into UI/UX Design ;)
 
 <  > Let The Fun Begin < / >
