@@ -4,10 +4,10 @@
 
 A litte summary about me:
 
-- 🔭 Current project: One stop Mobile App for my curch AFM using Flutte/Dart and Firebase
+- 🔭 Current project: My start up website called PH Defense
 - 👯 Open for a mentor to call at 2 am when i have a bug
 - 💬 I love learning something new
 - 🌱 I do yoga and pilates for my mental, phsysical and spiritual wellbeing
--  ⚡ Currently venturing into UI/UX Design ;)
+-  ⚡ Cyber Security Specialist in the making ;)
 
 <  > Let The Fun Begin < / >
